@@ -32,7 +32,7 @@
           </li>
         </ul>
           </nav>
-    </div>
+   
   </div>
   </header>
   <!-- Project -->
