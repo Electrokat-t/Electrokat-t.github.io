@@ -12,6 +12,43 @@
 
   <!-- Custom Styles -->
   <link rel="stylesheet" href="style.css">
+<style>
+body {
+    font-size: 15pt;
+  
+}
+#header{
+  color: #fff;
+  border-color:yellow;
+  border-style:solid;
+  background-color:#FF94F4;
+  text-align: center;
+border-radius:5px;
+border-width:10px;
+}
+a
+{
+  color:#F3F;
+  
+}
+nav{
+  background-color:#DAE91A;
+float:right;
+border-style:solid;
+border-color: #BFC940;
+margin:0;
+padding:0;
+opacity: 0.7;
+
+}
+
+html{
+  scroll-behavior: smooth;
+}
+li{
+  list-style: none;
+}
+</style>
 </head>
 
 <body>
