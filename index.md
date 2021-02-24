@@ -33,7 +33,6 @@
         </ul>
           </nav>
    
-  </div>
   </header>
   <!-- Project -->
   <script src="main.js"></script>
