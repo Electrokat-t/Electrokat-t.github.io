@@ -70,6 +70,6 @@ li{
         </ul>
           </nav>
    
-  </header>
+ 
   <!-- Project -->
   <script src="main.js"></script>
