@@ -63,7 +63,7 @@ li{
           <a href="blog.html">My posts</a>
           </li>
 <li>
-<a href="index.md">Home</a>
+<a href="home.html">Home</a>
 </li>
           <li>
           <a href="about.html">About me</a>
