@@ -60,10 +60,13 @@ li{
       <nav>
         <ul>
           <li>
-          <a href="blog.html">home</a>
+          <a href="blog.html">My posts</a>
           </li>
+<li>
+<a href="index.md">Home</a>
+</li>
           <li>
-          <a href="about.html">about me</a>
+          <a href="about.html">About me</a>
           </li>
           <li><a href="contact.html">Contact</a>
           </li>
