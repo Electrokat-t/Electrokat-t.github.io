@@ -17,15 +17,6 @@ body {
     font-size: 15pt;
   
 }
-#header{
-  color: #fff;
-  border-color:yellow;
-  border-style:solid;
-  background-color:#FF94F4;
-  text-align: center;
-border-radius:5px;
-border-width:10px;
-}
 a
 {
   color:#F3F;
@@ -52,10 +43,7 @@ li{
 </head>
 
 <body>
-  <div id="header">
-    <p> <h1>Techhygirl</h1></p>
-    <header>
-      
+ 
     <div id="container-fluid" class="menu">
       <nav>
         <ul>
