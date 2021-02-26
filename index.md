@@ -60,7 +60,7 @@ li{
       <nav>
         <ul>
           <li>
-          <a href="posts/blog1.html">My posts</a>
+          <a href="/Posts/">My posts</a>
           </li>
 <li>
 <a href="home.html">Home</a>
