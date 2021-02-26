@@ -23,11 +23,9 @@ a
   
 }
 nav{
-  background-color:#DAE91A;
+  background-color:light-blue;
 border-style:solid;
 border-color: #BFC940;
-margin:0;
-padding:0;
 opacity: 0.7;
 
 }
