@@ -27,8 +27,9 @@ nav
 {
   background-color:#4886FF;
 border-style:solid;
-border-color: blue;
-opacity: 0.5;
+border-color: white;
+opacity: 0.9;
+height:4%;
 
 }
 
