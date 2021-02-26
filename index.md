@@ -20,7 +20,7 @@ body
 }
 a
 {
-  color:#F3F;
+  color:white;
   
 }
 nav
@@ -38,6 +38,10 @@ html{
 li{
   list-style: none;
 }
+h1
+{
+text-align:center;
+}
 </style>
 </head>
 
@@ -49,9 +53,6 @@ li{
           <li>
           <a href="blog1.html">My posts</a>
           </li>
-<li>
-<a href="home.html">Home</a>
-</li>
           <li>
           <a href="about.html">About me</a>
           </li>
@@ -59,6 +60,9 @@ li{
           </li>
         </ul>
           </nav>
+<p>
+<h1>Hello!</h1>
+
    
  
   <!-- Project -->
