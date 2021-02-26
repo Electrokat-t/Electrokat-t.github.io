@@ -20,7 +20,8 @@ body
 }
 a
 {
-  color:black;
+  color:#4F8BFF;
+font-style:french scritp;
   
 }
 nav
