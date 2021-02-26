@@ -25,7 +25,7 @@ a
 }
 nav
 {
-  background-color:light-blue;
+  background-color:blue;
 border-style:solid;
 border-color: #BFC940;
 opacity: 0.7;
