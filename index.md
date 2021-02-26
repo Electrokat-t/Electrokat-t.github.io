@@ -25,10 +25,10 @@ a
 }
 nav
 {
-  background-color:blue;
+  background-color:#4886FF;
 border-style:solid;
-border-color: #BFC940;
-opacity: 0.7;
+border-color: blue;
+opacity: 0.5;
 
 }
 
