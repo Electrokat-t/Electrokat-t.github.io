@@ -24,7 +24,6 @@ a
 }
 nav{
   background-color:#DAE91A;
-float:right;
 border-style:solid;
 border-color: #BFC940;
 margin:0;
