@@ -1,2 +1,2 @@
-# Electrokat-t.github.io
+# Tecchygirl
 A simple personal blog.
