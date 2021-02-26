@@ -20,7 +20,7 @@ body
 }
 a
 {
-  color:#4F8BFF;
+  color:black;
   
 }
 nav
@@ -48,23 +48,12 @@ text-align:center;
 
 <body>
  
-    <div id="container-fluid" class="menu">
-      <nav>
-        <ul>
-          <li>
-          <a href="blog1.html">My posts</a>
-          </li>
-          <li>
-          <a href="about.html">About me</a>
-          </li>
-          <li><a href="contact.html">Contact</a>
-          </li>
-        </ul>
-          </nav>
+
 <p>
 <h1>Hello!</h1>
 <br/>
-I am Tecchygirl. 
+I am Tecchygirl. You can know more <a href="about.html">about me</a> here. You can checkout all <a href="blog1.html">my posts</a> here. 
+You can find my <a href="contact.html">contact</a> me here.
 </p>
    
  
