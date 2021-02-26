@@ -20,12 +20,12 @@ body
 }
 a
 {
-  color:#ECECFD;
+  color:#4F8BFF;
   
 }
 nav
 {
-  background-color:#4886FF;
+  background-color:#ECECFD;
 border-style:solid;
 border-color: white;
 opacity: 0.9;
@@ -63,7 +63,9 @@ text-align:center;
           </nav>
 <p>
 <h1>Hello!</h1>
-
+<br/>
+I am Tecchygirl. 
+</p>
    
  
   <!-- Project -->
