@@ -24,13 +24,12 @@ a
 font-style:french scritp;
   
 }
-nav
+P
 {
   background-color:#ECECFD;
 border-style:solid;
 border-color: white;
 opacity: 0.9;
-height:4%;
 
 }
 
@@ -54,7 +53,7 @@ text-align:center;
 <h1>Hello!</h1>
 <br/>
 I am Tecchygirl. You can know more <a href="about.html">about me</a> here. You can checkout all <a href="blog1.html">my posts</a> here. 
-You can find my <a href="contact.html">contact</a> me here.
+You can find my <a href="contact.html">contacts</a> here.
 </p>
    
  
