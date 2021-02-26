@@ -21,16 +21,13 @@ body
 a
 {
   color:#4F8BFF;
-font-style:french scritp;
+font-style:french script;
   
 }
 P
 {
-  background-color:#ECECFD;
 border-style:solid;
-border-color: white;
-opacity: 0.9;
-
+border-color: blue;
 }
 
 html{
@@ -52,8 +49,8 @@ text-align:center;
 <p>
 <h1>Hello!</h1>
 <br/>
-I am Tecchygirl. You can know more <a href="about.html">about me</a> here. You can checkout all <a href="blog1.html">my posts</a> here. 
-You can find my <a href="contact.html">contacts</a> here.
+I am Tecchygirl. You can know more <a href="about.html">about me</a> here. Checkout all <a href="blog1.html">my posts</a> on this link. 
+Find my <a href="contact.html">contacts</a> detail on this page.
 </p>
    
  
