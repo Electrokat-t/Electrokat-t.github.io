@@ -20,7 +20,7 @@ body
 }
 a
 {
-  color:#E5ECFA;
+  color:#E6ECFB;
   
 }
 nav
