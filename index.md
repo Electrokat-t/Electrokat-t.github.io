@@ -13,7 +13,8 @@
   <!-- Custom Styles -->
   <link rel="stylesheet" href="style.css">
 <style>
-body {
+body 
+{
     font-size: 15pt;
   
 }
@@ -22,7 +23,8 @@ a
   color:#F3F;
   
 }
-nav{
+nav
+{
   background-color:light-blue;
 border-style:solid;
 border-color: #BFC940;
