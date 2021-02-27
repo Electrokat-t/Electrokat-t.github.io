@@ -28,6 +28,8 @@ p
 {
 border-style:solid;
 border-color: #5563FF;
+margin:1px;
+padding:2px;
 }
 
 html{
