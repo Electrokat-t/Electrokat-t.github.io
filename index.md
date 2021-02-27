@@ -24,10 +24,10 @@ a
 font-style:french script;
   
 }
-h1
+p
 {
 border-style:solid;
-border-color: blue;
+border-color: #5563FF;
 }
 
 html{
@@ -36,7 +36,7 @@ html{
 li{
   list-style: none;
 }
-p
+h1
 {
 text-align:center;
 }
@@ -46,8 +46,8 @@ text-align:center;
 <body>
  
 
-<p>
 <h1>Hello!</h1>
+<p>
 <br/>
 I am Tecchygirl. You can know more <a href="about.html">about me</a> here. Checkout all <a href="blog1.html">my posts</a> on this link. 
 Find my <a href="contact.html">contacts</a> detail on this page.
