@@ -24,7 +24,7 @@ a
 font-style:french script;
   
 }
-P
+h1
 {
 border-style:solid;
 border-color: blue;
@@ -36,7 +36,7 @@ html{
 li{
   list-style: none;
 }
-h1
+p
 {
 text-align:center;
 }
