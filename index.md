@@ -28,7 +28,7 @@ p
 {
 border-style:solid;
 border-color: #5563FF;
-margin:1px;
+margin:5px;
 padding:2px;
 }
 
@@ -41,6 +41,7 @@ li{
 h1
 {
 text-align:center;
+font-style:Mechonat;
 }
 </style>
 </head>
