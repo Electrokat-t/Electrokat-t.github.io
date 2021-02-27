@@ -21,15 +21,15 @@ body
 a
 {
   color:#4F8BFF;
-font-style:french script;
+font-style:bakery;
   
 }
 p
 {
 border-style:solid;
 border-color: #5563FF;
-margin:5px;
-padding:2px;
+margin:15px;
+padding:10px;
 }
 
 html{
@@ -41,7 +41,7 @@ li{
 h1
 {
 text-align:center;
-font-style:Mechonat;
+font-style:mechonat, dancing script;
 }
 </style>
 </head>
