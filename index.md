@@ -52,6 +52,7 @@ font-style:mechonat, dancing script;
  
 
 <h1>Hello!</h1>
+<img src="Adobe_Post_20210227_1529490.3422038954519463.png">
 <p>
 <br/>
 I am Tecchygirl. You can know more <a href="about.html">about me</a> here. Checkout all <a href="blog1.html">my posts</a> on this link. 
