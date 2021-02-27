@@ -21,7 +21,7 @@ body
 a
 {
   color:#4F8BFF;
-font-style:bakery;
+font-style:alegra;
   
 }
 p
@@ -30,6 +30,8 @@ border-style:solid;
 border-color: #5563FF;
 margin:15px;
 padding:10px;
+font-size:25px;
+font-style:delich;
 }
 
 html{
