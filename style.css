@@ -4,7 +4,8 @@ body{
   margin:0;
   font-family:'Montserrat', sans-serif;
 }
-#header{
+#header
+{
   height:150px;
   background-image:url('header.png');
   line-height: 150px;
